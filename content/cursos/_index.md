@@ -8,7 +8,7 @@ Inscreva-se nas turmas **DataSciLabs** — 100% gratuitas e com certificado.
 [Ver cursos &darr;](#cursos-abertos)
 {{< /alert >}}
 
-## Letramento Estatístico com R: Transformando Dados em Conhecimento  
+## Letramento em R
 *14-16 anos | Presencial | Gratuito*
 
 ![Alunos programando em R](/img/codeyoung.jpg)
