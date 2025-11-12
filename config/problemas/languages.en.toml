@@ -1,0 +1,10 @@
+title = "My awesome website"
+
+[params.author]
+name = "DataSciLabs"
+image = "img/DataSciLabs-Normal-WithoutAxes-NoBg.png"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+  { twitter = "https://twitter.com/username" }
+]

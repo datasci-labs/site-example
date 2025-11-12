@@ -1,0 +1,23 @@
+languageCode = "pt-br"
+languageName = "Portugues Brasileiro"
+weight = 1
+title = "DataSciLabs"
+
+[params]
+  displayName = "Portugues Brasileiro"
+  isoCode = "pt-br"
+  rtl = false
+  dateFormat = "2 Janeiro 2006"
+  logo = "img/logo.png"
+  description = "A powerful, lightweight theme for Hugo."
+
+[params.author]
+  name = "DataSciLabs"
+  email = "datascilabs@ufpr.br"
+  image = "img/logo-com-fundo.png"
+  headline = "Transforme dados em decisões."
+  bio = "DataSciLabs – Laboratório de Estatística & Ciência de Dados Transformamos números em conhecimento e conhecimento em ação. Acesse, aprenda e use dados para entender (e mudar) o mundo ao seu redor."
+  links = [
+    { instagram = "https://www.instagram.com/datasci.labs/" },
+    { github = "https://github.com/orgs/datasci-labs/dashboard" },
+  ]

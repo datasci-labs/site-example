@@ -1,0 +1,43 @@
+/* ==========================================================
+   DataSciLabs Colour Scheme
+   Tailwind CSS – RGB values (0-255)
+   ========================================================== */
+
+:root {
+  /* ---------- Neutros (inalterados) ---------- */
+  --color-neutral: 211, 215, 246;          /* #d3d7f6 */
+  --color-neutral-50: 248, 250, 252;
+  --color-neutral-100: 241, 245, 249;
+  --color-neutral-200: 226, 232, 240;
+  --color-neutral-300: 203, 213, 225;
+  --color-neutral-400: 148, 163, 184;
+  --color-neutral-500: 102, 102, 102;
+  --color-neutral-600: 71, 85, 105;
+  --color-neutral-700: 51, 65, 85;
+  --color-neutral-800: 30, 41, 59;
+  --color-neutral-900: 4, 4, 4;            /* #040404 */
+
+  /* ---------- PRIMÁRIA (roxo) ---------- */
+  --color-primary-50: 240, 249, 255;       /* lilás quase branco */
+  --color-primary-100: 225, 232, 254;      /* lilás claro         */
+  --color-primary-200: 211, 215, 246;      /* #d3d7f6             */
+  --color-primary-300: 159, 90, 214;       /* #9d5ad6             */
+  --color-primary-400: 140, 100, 220;      /* #8c64dc             */
+  --color-primary-500: 120, 70, 204;       /* tom principal roxo  */
+  --color-primary-600: 103, 58, 178;       /* roxo escuro         */
+  --color-primary-700: 88, 50, 150;        /* mais escuro         */
+  --color-primary-800: 70, 40, 120;        /* vinho               */
+  --color-primary-900: 50, 30, 90;         /* vinho escuro        */
+
+  /* ---------- SECUNDÁRIA (azul) ---------- */
+  --color-secondary-50: 240, 249, 255;     /* quase branco-azul   */
+  --color-secondary-100: 219, 234, 254;    /* azul bebê           */
+  --color-secondary-200: 191, 219, 254;    /* azul claro          */
+  --color-secondary-300: 143, 212, 250;    /* #8fd4fa             */
+  --color-secondary-400: 56, 174, 244;     /* #38aef4             */
+  --color-secondary-500: 37, 187, 252;     /* #25bbfc – oficial   */
+  --color-secondary-600: 29, 161, 230;     /* azul médio          */
+  --color-secondary-700: 25, 135, 210;     /* azul escuro         */
+  --color-secondary-800: 23, 110, 180;     /* mais escuro         */
+  --color-secondary-900: 20, 90, 150;      /* azul muito escuro   */
+}
