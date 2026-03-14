@@ -9,14 +9,14 @@ title = "DataSciLabs"
   rtl = false
   dateFormat = "2 Janeiro 2006"
   logo = "img/logo.png"
-  description = "A powerful, lightweight theme for Hugo."
+  description = ""
 
 [params.author]
   name = "DataSciLabs"
   email = "datascilabs@ufpr.br"
   image = "img/logo-com-fundo.png"
   headline = "Transforme dados em decisões."
-  bio = "DataSciLabs – Laboratório de Estatística & Ciência de Dados Transformamos números em conhecimento e conhecimento em ação. Acesse, aprenda e use dados para entender (e mudar) o mundo ao seu redor."
+  bio = "DataScilabs é um conjunto de atividades de extensão.=, do curso de Estatística e Ciência de Dados da UFPR."
   links = [
     { instagram = "https://www.instagram.com/datasci.labs/" },
     { github = "https://github.com/orgs/datasci-labs/dashboard" },
