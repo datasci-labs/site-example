@@ -11,14 +11,25 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Cursos"
-  pageRef = "cursos"
+  name = "Atividades de Extensão"
+  pageRef = "extensao"
+  weight = 10
+
+[[main]]
+  name = "Grupos de Pesquisa"
+  pageRef = "pesquisa"
   weight = 11
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "blog"
-#  weight = 15
+
+[[main]]
+  name = "Cursos"
+  pageRef = "cursos"
+  weight = 12
+
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 15
 
 [[main]]
   name = "Sobre"
@@ -30,10 +41,6 @@
   pageRef = "contato"
   weight = 16
 
-[[main]]
-  name = "Equipe"
-  pageRef = "equipe"
-  weight = 30
 
 #[[main]]
 #  name = "Test"
