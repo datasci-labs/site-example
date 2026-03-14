@@ -15,19 +15,19 @@ enableCodeCopy = true
 
 replyByEmail = false
 
-mainSections = ["principal"]
+mainSections = ["blog"]
 # robots = ""
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
-# backgroundImageWidth = 1200
+#backgroundImageWidth = 1200
 
-defaultBackgroundImage = "/img/traffic.svg"
+defaultBackgroundImage = "/img/background.svg"
 defaultFeaturedImage = "/img/featured.svg"
 defaultSocialImage = "/img/logo-social.png"
-hotlinkFeatureImage = false
-# imagePosition = "50% 50%"
+hotlinkFeatureImage = true
+imagePosition = "50% 50%"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -39,7 +39,7 @@ smartTOCHideUnfocusedChildren = true
 fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -50,7 +50,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "/img/iceland.jpg" # used in: hero, and card
+  #homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 12
   showMoreLink = true
