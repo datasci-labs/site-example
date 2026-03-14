@@ -20,15 +20,12 @@
   pageRef = "pesquisa"
   weight = 11
 
-<<<<<<< HEAD
 
 [[main]]
   name = "Cursos"
   pageRef = "cursos"
   weight = 12
 
-=======
->>>>>>> 36f0b1f (ok)
 [[main]]
   name = "Blog"
   pageRef = "blog"
