@@ -9,6 +9,7 @@ cascade:
   invertPagination: true
 ---
 
+
 {{< lead >}}
 Este é o espaço dos nossos estudantes compartilhar conhecimento e conectar a Estatística com o mundo real :heart_eyes:
 {{< /lead >}}

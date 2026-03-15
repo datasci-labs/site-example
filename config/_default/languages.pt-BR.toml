@@ -21,3 +21,7 @@ title = "DataSciLabs"
     { instagram = "https://www.instagram.com/datasci.labs/" },
     { github = "https://github.com/orgs/datasci-labs/dashboard" },
   ]
+
+[params.features]
+  cols = 3
+  enable = true

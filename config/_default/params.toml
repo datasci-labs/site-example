@@ -30,8 +30,8 @@ hotlinkFeatureImage = true
 imagePosition = "50% 50%"
 
 highlightCurrentMenuArea = true
-smartTOC = true
-smartTOCHideUnfocusedChildren = true
+smartTOC = false
+smartTOCHideUnfocusedChildren = false
 
 #giteaDefaultServer = "https://git.fsfe.org"
 #forgejoDefaultServer = "https://v11.next.forgejo.org"
@@ -56,7 +56,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showMoreLink = true
   showMoreLinkDest = "docs"
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   layoutBackgroundBlur = true # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
 
@@ -175,3 +175,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 
 [advertisement]
   # adsense = ""
+
+[features]
+  enable = true
+  cols = 3  # Número de colunas (pode ser 2, 3, 4, 6, etc.)
